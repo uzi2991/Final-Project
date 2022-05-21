@@ -1,0 +1,167 @@
+[
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Engine\\AssetManager.cpp.obj -c D:\\Workspace\\Final\\src\\Engine\\AssetManager.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Engine\\AssetManager.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Engine\\BoxCollider.cpp.obj -c D:\\Workspace\\Final\\src\\Engine\\BoxCollider.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Engine\\BoxCollider.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Engine\\C_Animation.cpp.obj -c D:\\Workspace\\Final\\src\\Engine\\C_Animation.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Engine\\C_Animation.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Engine\\C_Sprite.cpp.obj -c D:\\Workspace\\Final\\src\\Engine\\C_Sprite.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Engine\\C_Sprite.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Engine\\Game.cpp.obj -c D:\\Workspace\\Final\\src\\Engine\\Game.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Engine\\Game.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Engine\\Input.cpp.obj -c D:\\Workspace\\Final\\src\\Engine\\Input.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Engine\\Input.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Engine\\PhysicSystem.cpp.obj -c D:\\Workspace\\Final\\src\\Engine\\PhysicSystem.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Engine\\PhysicSystem.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Engine\\RigidBody.cpp.obj -c D:\\Workspace\\Final\\src\\Engine\\RigidBody.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Engine\\RigidBody.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Engine\\StateMachine.cpp.obj -c D:\\Workspace\\Final\\src\\Engine\\StateMachine.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Engine\\StateMachine.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Engine\\Transform.cpp.obj -c D:\\Workspace\\Final\\src\\Engine\\Transform.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Engine\\Transform.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\GameOverState\\GameOverState.cpp.obj -c D:\\Workspace\\Final\\src\\GameOverState\\GameOverState.cpp",
+  "file": "D:\\Workspace\\Final\\src\\GameOverState\\GameOverState.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\GameState\\Background.cpp.obj -c D:\\Workspace\\Final\\src\\GameState\\Background.cpp",
+  "file": "D:\\Workspace\\Final\\src\\GameState\\Background.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\GameState\\Chest.cpp.obj -c D:\\Workspace\\Final\\src\\GameState\\Chest.cpp",
+  "file": "D:\\Workspace\\Final\\src\\GameState\\Chest.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\GameState\\GameHUD.cpp.obj -c D:\\Workspace\\Final\\src\\GameState\\GameHUD.cpp",
+  "file": "D:\\Workspace\\Final\\src\\GameState\\GameHUD.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\GameState\\GameState.cpp.obj -c D:\\Workspace\\Final\\src\\GameState\\GameState.cpp",
+  "file": "D:\\Workspace\\Final\\src\\GameState\\GameState.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\GameState\\Level.cpp.obj -c D:\\Workspace\\Final\\src\\GameState\\Level.cpp",
+  "file": "D:\\Workspace\\Final\\src\\GameState\\Level.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\GameState\\Mushroom.cpp.obj -c D:\\Workspace\\Final\\src\\GameState\\Mushroom.cpp",
+  "file": "D:\\Workspace\\Final\\src\\GameState\\Mushroom.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\GameState\\Pickup.cpp.obj -c D:\\Workspace\\Final\\src\\GameState\\Pickup.cpp",
+  "file": "D:\\Workspace\\Final\\src\\GameState\\Pickup.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\GameState\\Player.cpp.obj -c D:\\Workspace\\Final\\src\\GameState\\Player.cpp",
+  "file": "D:\\Workspace\\Final\\src\\GameState\\Player.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\GameState\\PlayerMovement.cpp.obj -c D:\\Workspace\\Final\\src\\GameState\\PlayerMovement.cpp",
+  "file": "D:\\Workspace\\Final\\src\\GameState\\PlayerMovement.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\GameState\\Terrain.cpp.obj -c D:\\Workspace\\Final\\src\\GameState\\Terrain.cpp",
+  "file": "D:\\Workspace\\Final\\src\\GameState\\Terrain.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\GameState\\TileMapParser.cpp.obj -c D:\\Workspace\\Final\\src\\GameState\\TileMapParser.cpp",
+  "file": "D:\\Workspace\\Final\\src\\GameState\\TileMapParser.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\json\\jsoncpp.cpp.obj -c D:\\Workspace\\Final\\src\\json\\jsoncpp.cpp",
+  "file": "D:\\Workspace\\Final\\src\\json\\jsoncpp.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c D:\\Workspace\\Final\\src\\main.cpp",
+  "file": "D:\\Workspace\\Final\\src\\main.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\MenuState\\ChoseCharacterState.cpp.obj -c D:\\Workspace\\Final\\src\\MenuState\\ChoseCharacterState.cpp",
+  "file": "D:\\Workspace\\Final\\src\\MenuState\\ChoseCharacterState.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\MenuState\\ChoseLevelState.cpp.obj -c D:\\Workspace\\Final\\src\\MenuState\\ChoseLevelState.cpp",
+  "file": "D:\\Workspace\\Final\\src\\MenuState\\ChoseLevelState.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\MenuState\\MenuState.cpp.obj -c D:\\Workspace\\Final\\src\\MenuState\\MenuState.cpp",
+  "file": "D:\\Workspace\\Final\\src\\MenuState\\MenuState.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\MenuState\\TutorialState.cpp.obj -c D:\\Workspace\\Final\\src\\MenuState\\TutorialState.cpp",
+  "file": "D:\\Workspace\\Final\\src\\MenuState\\TutorialState.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Utility\\Animation.cpp.obj -c D:\\Workspace\\Final\\src\\Utility\\Animation.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Utility\\Animation.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Utility\\Bitmask.cpp.obj -c D:\\Workspace\\Final\\src\\Utility\\Bitmask.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Utility\\Bitmask.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Utility\\Button.cpp.obj -c D:\\Workspace\\Final\\src\\Utility\\Button.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Utility\\Button.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Utility\\Sprite.cpp.obj -c D:\\Workspace\\Final\\src\\Utility\\Sprite.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Utility\\Sprite.cpp"
+},
+{
+  "directory": "D:/Workspace/Final/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Workspace/Final/include -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Utility\\SpriteSheet.cpp.obj -c D:\\Workspace\\Final\\src\\Utility\\SpriteSheet.cpp",
+  "file": "D:\\Workspace\\Final\\src\\Utility\\SpriteSheet.cpp"
+}
+]
