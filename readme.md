@@ -1,12 +1,12 @@
 
-## Hướng dẫn cài đặt
+## Hướng dẫn cài đặt (Windows)
 
 Clone repository này về  
 Vào thư mục cmake-build chạy file main.exe
 
 ## Mô tả
 
-**Pi's Adventure** là một tựa game 2D Platformer.  
+**Pi's Adventure** là một tựa game 2D Platformer (lấy ý tưởng từ các game cổ điển **Mario**, **Kirby**)  
 Nhân vật chính cố gắng vượt qua màn chơi thu thập pickup và chest
 
 ## Chức năng
@@ -16,30 +16,32 @@ Nhân vật chính cố gắng vượt qua màn chơi thu thập pickup và ches
 
 ## Hướng dẫn
 
-Sử dụng phím **W, A** để di chuyển, **S** để nhảy  
+Sử dụng phím **W, A** để di chuyển, **S** để nhảy (có thể **Double Jump**)
 Cố gắng thu thập thật nhiều pickup, chest và tránh đụng vào enemy, spike, rơi xuống vực
 
 ## Video minh hoạ
 
 [Link Youtube](https://www.youtube.com/watch?v=i3FIgqlRoOg)
 
-## Sử dụng
+## Kỹ thuật sử dụng
 
-- Container như vector, map, stack
-- Smart Pointer
-- Template
-- Class
-- Thư viện đồ hoạ SFML
-- Thư viện xử lý json jsoncpp
+- Sử dụng container như vector, map, stack
+- Sử dụng Smart Pointer
+- Sử dụng Template
+- Lập trình đối tượng
+- Sử dụng Thư viện đồ hoạ SFML
+- Sử dụng Thư viện jsoncpp để xử lý file .json
+- Sử dụng phần mềm Tiled để tạo màn chơi
 
 ## Bài học
 
 - Cách cấu trúc, chia file trong một chương trình
 - Học được cấu trúc Entity - Component - System
-- Cách sử dụng virtual function
+- Cách cấu trúc game loop để game chạy ổn định trên nhiều thiết bị với frame rate khác nhau
 
 ## Hướng phát triển
 
 - Thêm Level
 - Đa dạng thêm enemy, pickup
+- Fix một số bug nho nhỏ
 
