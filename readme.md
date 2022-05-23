@@ -20,12 +20,14 @@ Nhân vật chính cố gắng vượt qua màn chơi thu thập pickup và ches
 - Nhảy 2 lần
 - Thu thập Pickup
 - Mở Chest
-- Tiêu diệt nhân vật
+- Tiêu diệt quái vật
 
 ## Hướng dẫn chơi
 
 Sử dụng phím **W, A** để di chuyển, **S** để nhảy (có thể **Double Jump**)
-Cố gắng thu thập thật nhiều pickup, chest và tránh đụng vào enemy, spike, rơi xuống vực
+Cố gắng thu thập thật nhiều pickup, chest và tránh đụng vào enemy, spike, rơi xuống vực  
+**Chú ý**: Nếu nhân vật va chạm với enemy theo chiều ngang sẽ chết  
+Tuy nhiên nếu nhân vật nhảy lên enemy sẽ tiêu diệt được enemy
 
 ## Video minh hoạ
 
