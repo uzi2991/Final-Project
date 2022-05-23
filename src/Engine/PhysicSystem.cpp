@@ -4,16 +4,15 @@
 
 void PhysicSystem::fixedUpdate(float deltaTime)
 {
-    this->refresh();
     // for (const auto &object : this->dynamicObjects)
     // {
     //     object->fixedUpdate(deltaTime);
     // }
 
     // Dynamic vs Static
-    for (const auto& dObject: this->dynamicObjects)
+    for (const auto &dObject : this->dynamicObjects)
     {
-        for (const auto& sObject: this->staticObjects)
+        for (const auto &sObject : this->staticObjects)
         {
             if (dObject->entity->isActive() && sObject->entity->isActive() && dObject->isCollide(sObject))
             {
@@ -36,9 +35,10 @@ void PhysicSystem::fixedUpdate(float deltaTime)
                 object1->entity->onCollision(object2->entity);
                 object2->entity->onCollision(object1->entity);
             }
-            
         }
     }
+    
+    this->refresh();
 }
 
 void PhysicSystem::addObject(RigidBody *body, bool isStatic)

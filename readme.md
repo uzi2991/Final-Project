@@ -1,12 +1,23 @@
 
 ## Hướng dẫn cài đặt (Windows 64bit)
 
-### Yêu cầu: MinGw-w64 được add vào PATH
+### Yêu cầu: đường dẫn tới thư mục `bin` của MinGw-w64 được thêm vào `environment path`
 
 Xem Hướng dẫn cài MingGw-w64 tại [đây](https://www.msys2.org/)  
 
-Clone repository này hoặc donwload và extract về máy của bạn  
-Vào thư mục cmake-build chạy file main.exe
+Clone repository này hoặc download và extract về máy của bạn  
+Vào thư mục `cmake-build` chạy file `main.exe`
+
+## Cách Build lại project
+
+### Bằng CMake
+
+- Thêm đường dẫn đễn thư mục `ninja-win` vào `environment path` 
+- Mở terminal trong thư mục `cmake-build` và gõ lệnh `ninja`
+
+### Bằng Makefile
+
+- Mở terminal trong thư mục `make-build` và gõ lệnh `make all`
 
 ## Mô tả
 
