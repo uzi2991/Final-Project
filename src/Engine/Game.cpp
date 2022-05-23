@@ -8,8 +8,6 @@
 #define FONT_FILEPATH "../res/Fonts/Aller_Rg.ttf"
 
 #define FIXED_FPS 60.f
-#define MAIN_THEME_FILEPATH "res/Sounds/Main Theme.wav"
-#define JUMP_SOUND_FILEPATH "res/Sounds/jump.wav"
 
 Game::Game(int width, int height, const std::string &title)
 {

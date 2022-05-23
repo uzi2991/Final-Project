@@ -41,9 +41,10 @@ Tuy nhiên nếu nhân vật nhảy lên enemy sẽ tiêu diệt được enemy
 - Lập trình đối tượng, lợi dụng tính đa hình, trừu tượng để xây dựng game Object
 - Sử dụng Thư viện đồ hoạ SFML
 - Sử dụng Thư viện jsoncpp để xử lý file .json
-- Sử dụng phần mềm Tiled để tạo màn chơi
+- Sử dụng phần mềm Tiled để hỗ trợ tạo màn chơi
 - Cấu trúc Entity - Component - System [Đọc thêm](https://en.wikipedia.org/wiki/Entity_component_system)
 - Sử dụng Finite State Machine để quản lý State của Game
+- Sử dụng Singleton Pattern
 
 ## Bài học
 

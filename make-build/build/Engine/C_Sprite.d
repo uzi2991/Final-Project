@@ -51,7 +51,20 @@ build/Engine/C_Sprite.o: ../src/Engine/C_Sprite.cpp \
  ../include/SFML/Graphics/Text.hpp \
  ../include/SFML/Graphics/VertexBuffer.hpp \
  ../include/Engine/Component.hpp ../include/Engine/SharedContext.hpp \
- ../include/Engine/AssetManager.hpp ../include/Engine/Input.hpp \
+ ../include/Engine/AssetManager.hpp ../include/SFML/Audio.hpp \
+ ../include/SFML/Audio/InputSoundFile.hpp \
+ ../include/SFML/Audio/Export.hpp ../include/SFML/Audio/Listener.hpp \
+ ../include/SFML/Audio/Music.hpp ../include/SFML/Audio/SoundStream.hpp \
+ ../include/SFML/Audio/SoundSource.hpp \
+ ../include/SFML/Audio/AlResource.hpp \
+ ../include/SFML/Audio/OutputSoundFile.hpp \
+ ../include/SFML/Audio/Sound.hpp ../include/SFML/Audio/SoundBuffer.hpp \
+ ../include/SFML/Audio/SoundBufferRecorder.hpp \
+ ../include/SFML/Audio/SoundRecorder.hpp \
+ ../include/SFML/Audio/SoundFileFactory.hpp \
+ ../include/SFML/Audio/SoundFileFactory.inl \
+ ../include/SFML/Audio/SoundFileReader.hpp \
+ ../include/SFML/Audio/SoundFileWriter.hpp ../include/Engine/Input.hpp \
  ../include/Utility/Bitmask.hpp ../include/Engine/StateMachine.hpp \
  ../include/Engine/State.hpp ../include/Engine/Entity.hpp \
  ../include/Engine/ECS.hpp ../include/Engine/Transform.hpp

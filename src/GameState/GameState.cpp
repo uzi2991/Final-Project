@@ -60,12 +60,6 @@ void GameState::init()
     System.asset.loadTexture("level 1", LEVEL1_FILEPATH);
     System.asset.loadTexture("level 2", LEVEL2_FILEPATH);
 
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> develop
     this->level = std::make_unique<Level>(this->levelNum);
 
     this->hud = std::make_unique<GameHUD>();

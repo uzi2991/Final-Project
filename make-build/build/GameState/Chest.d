@@ -57,6 +57,19 @@ build/GameState/Chest.o: ../src/GameState/Chest.cpp \
  ../include/GameState/Player.hpp ../include/Utility/Sprite.hpp \
  ../include/Engine/C_Animation.hpp ../include/Utility/Animation.hpp \
  ../include/Utility/SpriteSheet.hpp ../include/Engine/SharedContext.hpp \
- ../include/Engine/AssetManager.hpp ../include/Engine/Input.hpp \
+ ../include/Engine/AssetManager.hpp ../include/SFML/Audio.hpp \
+ ../include/SFML/Audio/InputSoundFile.hpp \
+ ../include/SFML/Audio/Export.hpp ../include/SFML/Audio/Listener.hpp \
+ ../include/SFML/Audio/Music.hpp ../include/SFML/Audio/SoundStream.hpp \
+ ../include/SFML/Audio/SoundSource.hpp \
+ ../include/SFML/Audio/AlResource.hpp \
+ ../include/SFML/Audio/OutputSoundFile.hpp \
+ ../include/SFML/Audio/Sound.hpp ../include/SFML/Audio/SoundBuffer.hpp \
+ ../include/SFML/Audio/SoundBufferRecorder.hpp \
+ ../include/SFML/Audio/SoundRecorder.hpp \
+ ../include/SFML/Audio/SoundFileFactory.hpp \
+ ../include/SFML/Audio/SoundFileFactory.inl \
+ ../include/SFML/Audio/SoundFileReader.hpp \
+ ../include/SFML/Audio/SoundFileWriter.hpp ../include/Engine/Input.hpp \
  ../include/Utility/Bitmask.hpp ../include/Engine/StateMachine.hpp \
  ../include/Engine/State.hpp
