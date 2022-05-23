@@ -1,7 +1,7 @@
 
 ## Hướng dẫn cài đặt (Windows 64bit)
 
-### Yêu cầu: MinGw-w64
+### Yêu cầu: MinGw-w64 được add vào PATH
 
 Xem Hướng dẫn cài MingGw-w64 tại [đây](https://www.msys2.org/)  
 
@@ -47,6 +47,7 @@ Tuy nhiên nếu nhân vật nhảy lên enemy sẽ tiêu diệt được enemy
 ## Bài học
 
 - Cách cấu trúc, chia file trong một chương trình
+- Cách build, compile project không phụ thuộc vào IDE
 - Học được cấu trúc Entity - Component - System
 - Cách cấu trúc game loop để game chạy ổn định trên nhiều thiết bị với frame rate khác nhau
 
