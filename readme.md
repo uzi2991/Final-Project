@@ -5,7 +5,7 @@
 
 Xem Hướng dẫn cài MingGw-w64 tại [đây](https://www.msys2.org/)  
 
-Clone repository này về  
+Clone repository này hoặc donwload và extract về máy của bạn  
 Vào thư mục cmake-build chạy file main.exe
 
 ## Mô tả
