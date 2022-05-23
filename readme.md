@@ -3,6 +3,8 @@
 
 ### Yêu cầu: MinGw-w64
 
+Xem Hướng dẫn cài MingGw-w64 tại [đây](https://www.msys2.org/)  
+
 Clone repository này về  
 Vào thư mục cmake-build chạy file main.exe
 
