@@ -35,14 +35,14 @@ Tuy nhiên nếu nhân vật nhảy lên enemy sẽ tiêu diệt được enemy
 
 ## Kỹ thuật sử dụng
 
-- Sử dụng container như vector, map, stack
-- Sử dụng Smart Pointer
+- Sử dụng các container như vector, map, stack
+- Sử dụng Smart Pointer để quản lý object game, giảm bớt gánh nặng xử lý memory
 - Sử dụng Template
-- Lập trình đối tượng
+- Lập trình đối tượng, lợi dụng tính đa hình, trừu tượng để xây dựng game Object
 - Sử dụng Thư viện đồ hoạ SFML
 - Sử dụng Thư viện jsoncpp để xử lý file .json
 - Sử dụng phần mềm Tiled để tạo màn chơi
-- Cấu trúc Entity - Component - System
+- Cấu trúc Entity - Component - System [Đọc thêm](https://en.wikipedia.org/wiki/Entity_component_system)
 - Sử dụng Finite State Machine để quản lý State của Game
 
 ## Bài học
