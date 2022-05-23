@@ -43,11 +43,13 @@ Tuy nhiên nếu nhân vật nhảy lên enemy sẽ tiêu diệt được enemy
 - Sử dụng Thư viện jsoncpp để xử lý file .json
 - Sử dụng phần mềm Tiled để tạo màn chơi
 - Cấu trúc Entity - Component - System
+- Sử dụng Finite State Machine để quản lý State của Game
 
 ## Bài học
 
 - Cách cấu trúc, chia file trong một chương trình
-- Cách build, compile project không phụ thuộc vào IDE
+- Cách build, compile project với CMake hay Makefile không phụ thuộc vào IDE
+- Học được cách sử dụng thư viện đồ họa SFML
 - Học được cấu trúc Entity - Component - System
 - Cách cấu trúc game loop để game chạy ổn định trên nhiều thiết bị với frame rate khác nhau
 
