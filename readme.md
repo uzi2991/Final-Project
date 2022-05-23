@@ -51,6 +51,7 @@ Tuy nhiên nếu nhân vật nhảy lên enemy sẽ tiêu diệt được enemy
 - Cách build, compile project với CMake hay Makefile không phụ thuộc vào IDE
 - Học được cách sử dụng thư viện đồ họa SFML
 - Học được cấu trúc Entity - Component - System
+- Học được cách build một Game Engine đơn giản có thể sử dụng lại
 - Cách cấu trúc game loop để game chạy ổn định trên nhiều thiết bị với frame rate khác nhau
 
 ## Hướng phát triển
