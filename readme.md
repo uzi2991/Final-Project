@@ -1,5 +1,7 @@
 
-## Hướng dẫn cài đặt (Windows)
+## Hướng dẫn cài đặt (Windows 64bit)
+
+### Yêu cầu: MinGw-w64
 
 Clone repository này về  
 Vào thư mục cmake-build chạy file main.exe
@@ -13,8 +15,12 @@ Nhân vật chính cố gắng vượt qua màn chơi thu thập pickup và ches
 
 - Chọn Level
 - Chọn nhân vật
+- Nhảy 2 lần
+- Thu thập Pickup
+- Mở Chest
+- Tiêu diệt nhân vật
 
-## Hướng dẫn
+## Hướng dẫn chơi
 
 Sử dụng phím **W, A** để di chuyển, **S** để nhảy (có thể **Double Jump**)
 Cố gắng thu thập thật nhiều pickup, chest và tránh đụng vào enemy, spike, rơi xuống vực
@@ -32,6 +38,7 @@ Cố gắng thu thập thật nhiều pickup, chest và tránh đụng vào enem
 - Sử dụng Thư viện đồ hoạ SFML
 - Sử dụng Thư viện jsoncpp để xử lý file .json
 - Sử dụng phần mềm Tiled để tạo màn chơi
+- Cấu trúc Entity - Component - System
 
 ## Bài học
 
@@ -44,4 +51,5 @@ Cố gắng thu thập thật nhiều pickup, chest và tránh đụng vào enem
 - Thêm Level
 - Đa dạng thêm enemy, pickup
 - Fix một số bug nho nhỏ
+- Đa dạng âm thanh
 
