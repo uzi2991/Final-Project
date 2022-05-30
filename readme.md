@@ -26,12 +26,20 @@ Nhân vật chính cố gắng vượt qua màn chơi thu thập pickup và ches
 
 ## Chức năng
 
+### Tính năng trong Game
+
 - Chọn Level
 - Chọn nhân vật
 - Nhảy 2 lần
 - Thu thập Pickup
 - Mở Chest
 - Tiêu diệt quái vật
+
+### Tính năng đồ hoạ
+
+- Nhân vặt có hoạt ảnh riêng ở các trạng thái khác nhau (**Chạy**, **Đứng im**, **Nhảy**, **Nhảy đôi**, **Ngã**)
+- Scrolling Background
+- Quái vật, Pickup, Chest đều có hoạt ảnh
 
 ## Giao diện người dụng
 
