@@ -33,6 +33,9 @@ Nhân vật chính cố gắng vượt qua màn chơi thu thập pickup và ches
 - Mở Chest
 - Tiêu diệt quái vật
 
+## Giao diện người dụng
+
+- Ở **Menu**, nhấn **Play** để chọn màn chơi, nhấn **Tutorial** để xem hướng dẫn, nhấn **Chose Character** để chọn nhân vật
 ## Hướng dẫn chơi
 
 Sử dụng phím **W, A** để di chuyển, **S** để nhảy (có thể **Double Jump**)  
@@ -56,6 +59,7 @@ Tuy nhiên nếu nhân vật nhảy lên enemy sẽ tiêu diệt được enemy
 - Cấu trúc Entity - Component - System [Đọc thêm](https://en.wikipedia.org/wiki/Entity_component_system)
 - Sử dụng Finite State Machine để quản lý State của Game
 - Sử dụng Singleton Pattern
+- Sử dụng Spritesheet để animate các object trong Game
 
 ## Bài học
 
