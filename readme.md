@@ -41,6 +41,11 @@ Nhân vật chính cố gắng vượt qua màn chơi thu thập pickup và ches
 - Scrolling Background
 - Quái vật, Pickup, Chest đều có hoạt ảnh
 
+### Tính năng âm thanh
+
+- Nhạc nền Background
+- Âm thanh khi nhảy
+
 ## Giao diện người dụng
 
 - Ở **Menu**, nhấn **Play** để chọn màn chơi, nhấn **Tutorial** để xem hướng dẫn, nhấn **Chose Character** để chọn nhân vật
